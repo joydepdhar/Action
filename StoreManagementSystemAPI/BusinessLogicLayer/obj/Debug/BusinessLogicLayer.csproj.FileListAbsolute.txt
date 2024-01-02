@@ -68,3 +68,17 @@ H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreMa
 H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
 H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
