@@ -12,7 +12,7 @@ namespace StoreManagementSystemAPI.Controllers
     public class AdminController : ApiController
     {
         [HttpPost]
-        [Route("API/AddUser")]
+        [Route("API/AddUserrr")]
         public HttpResponseMessage AddUser(UserDTO C)
         {
             try
@@ -30,7 +30,7 @@ namespace StoreManagementSystemAPI.Controllers
             }
         }
         [HttpGet]
-        [Route("API/ViewAllUser")]
+        [Route("API/ViewAllUserr")]
         public HttpResponseMessage ViewUser()
         {
             try
@@ -44,7 +44,7 @@ namespace StoreManagementSystemAPI.Controllers
             }
         }
         [HttpGet]
-        [Route("API/ViewAllUser/{Id}")]
+        [Route("API/ViewAllUserr/{Id}")]
         public HttpResponseMessage ViewUser(int id)
         {
             try
@@ -59,7 +59,7 @@ namespace StoreManagementSystemAPI.Controllers
         }
         //Product Related 
         [HttpGet]
-        [Route("API/User/delete/{id}")]
+        [Route("API/User/deletee/{id}")]
         public HttpResponseMessage DeleteUser(int id)
         {
             var res = UserService.Delete(id);
@@ -67,7 +67,7 @@ namespace StoreManagementSystemAPI.Controllers
 
         }
         [HttpPost]
-        [Route("API/AddProduct")]
+        [Route("API/AddProductt")]
         public HttpResponseMessage AddProduct(ProductDTO C)
         {
             try
@@ -85,7 +85,7 @@ namespace StoreManagementSystemAPI.Controllers
             }
         }
         [HttpGet]
-        [Route("API/ViewProduct/{Id}")]
+        [Route("API/ViewProductt/{Id}")]
         public HttpResponseMessage ViewProduct(int id)
         {
             try

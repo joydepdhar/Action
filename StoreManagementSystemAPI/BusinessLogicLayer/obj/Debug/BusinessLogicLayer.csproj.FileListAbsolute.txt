@@ -82,3 +82,17 @@ E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLaye
 E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
 E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
